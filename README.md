@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ruhaniruhal
 - 👀 I’m interested in data & analytics
-- 🌱 I’m currently learning MS Power BI, PostgreSQL, MS Excel and Google Looker
+- 🌱 I’m currently working on MS Power BI, MySQL, MS Excel,Python and Machine Learning
 - 💞️ I’m looking to collaborate on an End-to-End project of data analysis
-- 📫 You can reach me out at theruhaniruhal@gmail.com
+- 📫 You can reach me out at https://www.linkedin.com/in/theruhaniruhal/
 
 <!---
 ruhaniruhal/ruhaniruhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
